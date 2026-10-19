@@ -1,0 +1,1 @@
+import{O as e,d as t,h as n,t as r,tt as i}from"./_plugin-vue_export-helper-8f83gdBG.js";import{d as a}from"./index-BIA3o03S.js";var o={class:`auth-layout`},s=r({__name:`AuthLayout`,setup(r){return(r,s)=>(e(),t(`main`,o,[n(i(a))]))}},[[`__scopeId`,`data-v-c33ea531`]]);export{s as default};

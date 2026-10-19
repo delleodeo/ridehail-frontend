@@ -1,0 +1,1 @@
+import{u as e}from"./index-BIA3o03S.js";var t=e({name:`move-left`,size:24,node:[[`path`,{d:`M6 8L2 12L6 16`,key:`kyvwex`}],[`path`,{d:`M2 12H22`,key:`1m8cig`}]]});export{t};

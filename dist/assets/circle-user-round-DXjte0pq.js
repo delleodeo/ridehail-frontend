@@ -1,0 +1,1 @@
+import{u as e}from"./index-BIA3o03S.js";var t=e({name:`circle-user-round`,size:24,node:[[`path`,{d:`M17.925 20.056a6 6 0 0 0-11.851.001`,key:`z69sun`}],[`circle`,{cx:`12`,cy:`11`,r:`4`,key:`1gt34v`}],[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}]],aliases:[`user-circle-2`]});export{t};
